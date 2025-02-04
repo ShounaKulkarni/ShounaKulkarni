@@ -9,7 +9,7 @@ My Journey
 
 Holding a Master's in Computer Science from Clemson University, I've cultivated a deep understanding of cloud computing, database management systems, security, and applied data science. My academic journey has been a blend of rigorous coursework and practical projects, preparing me to tackle real-world challenges with agility and insight.
 
-In my professional voyage with Microsoft Azure and Zensar Technologies, I've had the privilege of enhancing web functionalities using React.js, integrating robust backends with Java and Node.js, and developing scalable RESTful APIs. My work on www.michaelkors.com stands out as a testament to my ability to boost site performance and user engagement through thoughtful integration and optimization.
+In my professional voyage with US Army Corps and Zensar Technologies, I've had the privilege of enhancing web functionalities using React.js, integrating robust backends with Java and Node.js, and developing scalable RESTful APIs. My work on www.michaelkors.com stands out as a testament to my ability to boost site performance and user engagement through thoughtful integration and optimization.
 
 Looking Ahead 🔍
 
