@@ -3,7 +3,7 @@
 ---
 About Me 
 
-I'm a dedicated Frontend Software Engineer with a drive for crafting user-centered, high-performance applications. My expertise lies in developing responsive interfaces and optimizing code for smooth and accessible user experiences. Leveraging my skills in React.js, Redux, Zustand, and cloud technologies like AWS, I approach every project with a blend of technical rigor and creativity.
+I'm a Frontend Software Engineer with a drive for crafting user-centered, high-performance applications. My expertise lies in developing responsive interfaces and optimizing code for smooth and accessible user experiences. Leveraging my skills in React.js, Redux, Zustand, and cloud technologies like AWS, I approach every project with a blend of technical rigor and creativity.
 
 My Journey
 
