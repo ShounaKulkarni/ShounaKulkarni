@@ -1,4 +1,5 @@
 <h2 align="center">Hi there 👋</h2>
+    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&height=100&lines=Hi+there+👋%2C;I+am+a+MERN+Stack+Cloud+Engineer" alt="Typing SVG" />
 
 ---
 About Me 
