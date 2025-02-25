@@ -3,7 +3,7 @@
 </div>
 <div align="center">
     
-🚀 **Full Stack Developer | AI & Cloud Enthusiast**  
+🚀 **AI & Cloud Enthusiast**  
 
 🔹 Passionate about building **scalable, high-performance applications**  
 🔹 Expert in **React, TypeScript, FastAPI, Node.js, MongoDB, PostgreSQL, AWS**  
